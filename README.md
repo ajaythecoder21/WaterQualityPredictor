@@ -1,4 +1,7 @@
 # WaterQualityPredictor
+
+## Overview
+The Water Quality Predictor will be able to predict if the water is safe or not based on a variety of features, such as pH, Sulfates, Conductivity, Organic Carbon, and many other features.  This could be used to help prevent contamination and to support the use of safe water.
 ## Dataset
 - Used Kaggle Water Quality Dataset
 
