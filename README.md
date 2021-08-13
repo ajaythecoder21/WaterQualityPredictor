@@ -14,6 +14,7 @@ The Water Quality Predictor will be able to predict if the water is safe or not 
   - Organic_carbon
   - Trihalomethanes
   - Turbidity
+  - Potability
 
 ## Feature Engineering
 - Handled Missing Values by performing Median Imputation based an Another Feature
