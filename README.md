@@ -21,3 +21,10 @@ Python (Libraries)
 - Scikit-Learn
 - Pandas
 - NumPy
+
+## Installation
+- pip install numpy
+- pip install sklearn
+- pip install keras-tuner
+- pip install tensorflow
+- pip install pandas
