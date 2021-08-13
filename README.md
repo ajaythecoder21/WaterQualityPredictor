@@ -14,3 +14,10 @@
 
 ## Model Evaluation
 - Achieved 95% Accuracy 
+
+## Tools Used
+Python (Libraries)
+- Tensorflow => Keras
+- Scikit-Learn
+- Pandas
+- NumPy
