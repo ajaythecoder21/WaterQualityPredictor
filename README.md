@@ -23,8 +23,11 @@ Python (Libraries)
 - NumPy
 
 ## Installation
-- pip install numpy
-- pip install sklearn
-- pip install keras-tuner
-- pip install tensorflow
-- pip install pandas
+- Install Anaconda Distribution
+- Install Python
+- Install Libraries
+  - pip install numpy
+  - pip install sklearn
+  - pip install keras-tuner
+  - pip install tensorflow
+  - pip install pandas
