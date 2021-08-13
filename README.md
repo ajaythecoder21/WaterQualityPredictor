@@ -34,3 +34,6 @@ Python (Libraries)
   - pip install keras-tuner
   - pip install tensorflow
   - pip install pandas
+## Resources
+https://www.youtube.com/watch?v=RZRoFU_abqU&list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN&index=8
+https://www.youtube.com/watch?v=Lx16T9cl5ng
